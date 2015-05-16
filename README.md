@@ -7,10 +7,10 @@ The goal of this programming assignment is to analyse raw data found in several 
 
 
 ###Preparations outside R:
-A) Create a subfolder "prog_assgn" in your working directory
-B) Download assignment data file and store it in the folder "prog_assgn". The data can be found here:
+- Create a subfolder "prog_assgn" in your working directory
+- Download assignment data file and store it in the folder "prog_assgn". The data can be found here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-C) Unzip the the data
+- Unzip the the data
 
 ###Processing steps in R (included in "run_analysis.R" - executed in the working directory)
 - identify relevant files in raw data
