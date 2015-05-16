@@ -1,6 +1,6 @@
-# Reading_and_cleaning_data
+# Getting_and_cleaning_data
 ## Contents
-This repository contains instructions how to solve the programming assignment in the coursera class reading and cleaning data.
+This repository contains instructions how to solve the programming assignment in the coursera class getting and cleaning data.
 
 ##Task summary:
 The goal of this programming assignment is to analyse raw data found in several files, reduce them to a relevant subset of variables and to create ONE dataset with tidy data:
@@ -8,7 +8,7 @@ The goal of this programming assignment is to analyse raw data found in several 
 
 
 ###Preparations outside R:
-A) Download assignment data file into a subdirectory named "data" in your working directory 
+A) Download assignment data file in your working directory 
 The data can be found here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 B) Unzip the the data
